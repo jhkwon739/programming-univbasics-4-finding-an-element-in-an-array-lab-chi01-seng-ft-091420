@@ -13,12 +13,12 @@ def find_element_index(array, value_to_find)
 end
 
 #def find_element_index(array, value_to_find)
-  current_index = 0
-  while current_index < array.length do
-    if array[current_index] == value_to_find
-      found_index = current_index
-    end
-    current_index += 1
+#  current_index = 0
+#  while current_index < array.length do
+    #if array[current_index] == value_to_find
+    #  return current_index
+    #end
+    #current_index += 1
   end
-  found_index
+found_index
 end
