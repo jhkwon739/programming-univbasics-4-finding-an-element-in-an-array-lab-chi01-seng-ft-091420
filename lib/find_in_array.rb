@@ -8,6 +8,7 @@ def find_element_index(array, value_to_find)
       position = index
     else 
       index += 1 
+    end
   end
   position
 end
